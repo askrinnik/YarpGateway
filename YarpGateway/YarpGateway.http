@@ -1,0 +1,6 @@
+@YarpGateway_HostAddress = http://localhost:7701
+
+GET {{YarpGateway_HostAddress}}/health/
+Accept: application/json
+
+###

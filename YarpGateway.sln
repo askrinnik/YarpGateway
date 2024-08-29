@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarpGateway", "YarpGateway\YarpGateway.csproj", "{CE00A870-8951-45F8-86F0-0793D7D27C1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE00A870-8951-45F8-86F0-0793D7D27C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE00A870-8951-45F8-86F0-0793D7D27C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE00A870-8951-45F8-86F0-0793D7D27C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE00A870-8951-45F8-86F0-0793D7D27C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {732A701C-9E29-43B1-A126-3B53059C9E5A}
+	EndGlobalSection
+EndGlobal
